@@ -1,4 +1,4 @@
 public class tato{
-trying_utente2(){};
+trying_utente1(){};
 
 }
